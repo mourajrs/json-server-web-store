@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3004"
+    "start": "json-server --watch db.json json-server-web-store.herokuapp.com"
   },
   "author": "",
   "license": "ISC",
